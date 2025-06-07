@@ -35,35 +35,36 @@ export const experiences = [
           { src: '/images/experience/UAV_lab_1.png' }
         ]
       },      
-    {
-      id: 3,
-      slug: 'automation-construction-mubadala',
-      title: 'Research Intern — Automation in Construction (Mubadala & NYUAD)',
-      duration: 'Jan 2024 – Jul 2024',
-      bullets: [
-        'Developed LiDAR-based autonomous navigation using ROS, increasing site inspection efficiency by 35%.',
-        'Enhanced sensor fusion algorithms for precise mapping.',
-        'Co-authored a conference paper (CCC 2025 submission).',
-      ],
-      description: `During my research internship at Mubadala & NYUAD, I contributed to the development of an autonomous robotic system for reality capture and data acquisition on dynamic construction sites. The robotic system integrated advanced SLAM algorithms, autonomous exploration planners, and robust data management pipelines, all validated in real-world construction environments. My work included SLAM integration (LIO-SAM), LiDAR sensor evaluation, SQL-based robotic data handling, and field deployment of autonomous scanning missions. This work was presented at CCC 2025.`,
-      media: [
-        { type: 'image', src: '/images/experience/SMART1.png', alt: 'Robotic platform' },
-        { type: 'image', src: '/images/experience/SMART2.png', alt: 'Research Summit at Mubadala HQ' },
-        { type: 'image', src: '/images/experience/SMART3.png', alt: 'SMART Construction team' },
-        { type: 'video', src: '/videos/NHM_slam.mp4', alt: 'Field test demo at Mubadala site' },
-        { type: 'video', src: '/videos/NHM_blk360.mp4', alt: 'Field test demo at Mubadala site' },
-        { type: 'video', src: '/videos/IMG_4311.MOV', alt: 'Field test demo at Mubadala site' }
-      ],
-      publication: {
-        title: 'Robotic Systems for Autonomous Data Acquisition in Construction: A Case Study',
-        conference: 'Creative Construction Conference (CCC 2025)',
-        doi: 'https://doi.org/10.22260/CCC2025/[LECTURE ID]',
-        pdf: '/papers/robotic_systems_autonomous_data_acquisition.pdf'
+      {
+        id: 3,
+        slug: 'automation-construction-mubadala',
+        title: 'Research Intern — Automation in Construction (Mubadala & NYUAD)',
+        duration: 'Jan 2024 – Jul 2024',
+        bullets: [
+          'Developed LiDAR-based autonomous navigation using ROS, increasing site inspection efficiency by 35%.',
+          'Enhanced sensor fusion algorithms for precise mapping.',
+          'Co-authored a conference paper (CCC 2025 submission).',
+        ],
+        description: `During my research internship at Mubadala & NYUAD, I contributed to the development of an autonomous robotic system for reality capture and data acquisition on dynamic construction sites. The robotic system integrated advanced SLAM algorithms, autonomous exploration planners, and robust data management pipelines, all validated in real-world construction environments. My work included SLAM integration (LIO-SAM), LiDAR sensor evaluation, SQL-based robotic data handling, and field deployment of autonomous scanning missions. This work was presented at CCC 2025.`,
+        media: [
+          { type: 'image', src: '/images/experience/SMART1.png', alt: 'Robotic platform' },
+          { type: 'image', src: '/images/experience/SMART2.png', alt: 'Research Summit at Mubadala HQ' },
+          { type: 'image', src: '/images/experience/SMART3.png', alt: 'SMART Construction team' },
+          { type: 'video', src: 'https://dl.dropboxusercontent.com/scl/fi/fkwqua880iiertljiyf7o/NHM_slam.mp4?rlkey=vsk4ty5xwn56enfow0rliw8pa&st=k5snebpn&dl=0', alt: 'Field test demo at Mubadala site' },
+          { type: 'video', src: 'https://dl.dropboxusercontent.com/scl/fi/kx2vbr9n6xj0s30yhgnbk/NHM_blk360.mp4?rlkey=y5beii942xdvph1a11l2po2fv&st=djl5r52x&dl=0', alt: 'Field test demo at Mubadala site' },
+          { type: 'video', src: 'https://dl.dropboxusercontent.com/scl/fi/qtu5ohca74dbpbik8ivwp/IMG_4311.MOV?rlkey=b3cvue2hqbkthtmgot4b606b3&st=7b7730j0&dl=0', alt: 'Field test demo at Mubadala site' }
+        ],
+        publication: {
+          title: 'Robotic Systems for Autonomous Data Acquisition in Construction: A Case Study',
+          conference: 'Creative Construction Conference (CCC 2025)',
+          doi: 'https://doi.org/10.22260/CCC2025/[LECTURE ID]',
+          pdf: '/papers/robotic_systems_autonomous_data_acquisition.pdf'
+        },
+        images: [
+          { src: '/images/experience/SMART3.png', alt: 'Construction robot overview' }
+        ]
       },
-      images: [
-        { src: '/images/experience/SMART3.png', alt: 'Construction robot overview' }
-      ]
-    },
+      
 
       {
         id: 4,
