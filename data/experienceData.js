@@ -62,7 +62,7 @@ export const experiences = [
       title: 'Robotic Systems for Autonomous Data Acquisition in Construction: A Case Study',
       conference: 'Creative Construction Conference (CCC 2025)',
       doi: 'https://doi.org/10.22260/CCC2025/[LECTURE ID]',
-      pdf: '/papers/robotic_systems_autonomous_data_acquisition.pdf'
+      pdf: 'https://dl.dropboxusercontent.com/scl/fi/hyb66i0cxkcxurv5k2fzb/Robotic_system.docx?rlkey=1wvbzzlsssdb3ys5sea5qtmaq&st=yasmwrgv&dl=0'
     },
     images: [
       { src: '//images/experience/SMART1.PNG'}
@@ -91,7 +91,7 @@ export const experiences = [
       title: 'Automated Room-Level Labelling of 360 Degree Video Frames Using SLAM',
       conference: 'ACCCBE 2025',
       doi: '#',
-      pdf: '/papers/automated_room_level_labelling.pdf'
+      pdf: 'https://dl.dropboxusercontent.com/scl/fi/9jvy44u46xx3jt2a02x09/Automated_labelling.pdf?rlkey=xp6pdl0ykqdgigecmep5czd85&st=l1dnot05&dl=0'
     },
     images: [
       { src: '/images/experience/Room_labelling_4.PNG' }
