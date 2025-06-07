@@ -96,5 +96,32 @@ export const experiences = [
     images: [
       { src: '/images/experience/Room_labelling_4.PNG' }
     ]
+  },
+  {
+    id: 5,
+    slug: 'cto-aerospace-sig',
+    title: 'Chief Technical Officer — NYUAD Aerospace Special Interest Group',
+    duration: 'Jan 2024 – Present',
+    bullets: [
+      'Lead technical development of advanced aerospace projects and autonomous UAV systems.',
+      'Designed and fabricated drones for hands-on student workshops and research initiatives.',
+      'Directed projects showcased at the Dubai Airshow, highlighting cutting-edge aerospace technologies.',
+      'Collaborated with industry and academic partners to advance autonomous navigation and aerospace systems.',
+    ],
+    description: `As Chief Technical Officer of the NYUAD Aerospace Special Interest Group (SIG), I lead development and implementation of advanced aerospace projects focused on autonomous systems, UAV platforms, and innovative aerospace technologies. My leadership spans both technical design and team management across student workshops, academic research collaborations, and external industry partnerships. Notable projects include drone fabrication for environmental monitoring, development of autonomous navigation algorithms, and SIG participation at the Dubai Airshow showcasing UAV capabilities.`,
+    media: [
+      { type: 'image', src: '/images/experience/SIG_1.jpg', alt: 'Falcon Aerospace Visit to UAV lab at NYUAD' },
+      { type: 'image', src: '/images/experience/SIG_3.jpg', alt: 'Global Aerospace SUMMIT' },
+      { type: 'image', src: '/images/experience/SIG_2.jpg', alt: 'Drone making workshop led by AEROSPACE SIG' },
+      { type: 'image', src: '/images/experience/SIG_4.jpg', alt: 'Dubai 2024 Airshow' },
+      { type: 'image', src: '/images/experience/SIG_5.jpg', alt: 'Dubai 2024 Airshow' },
+      { type: 'image', src: '/images/experience/SIG_6.jpg', alt: 'Dubai 2024 Airshow' },
+      { type: 'image', src: '/images/experience/SIG_7.jpg', alt: 'Dubai 2024 Airshow' },
+      { type: 'video', src: 'https://dl.dropboxusercontent.com/scl/fi/6jkwuqdl6i9elmazxkc5e/IMG_0676.mov?rlkey=3ccm3an09zkzevc4aaawbhvb5&st=4ayt60lr&dl=0'}
+    ],
+    images: [
+      { src: '/images/experience/SIG_1.jpg' }
+    ]
   }
+  
 ];
