@@ -1,4 +1,4 @@
-import { experiences } from '../../../data/experienceData';
+import { experiences } from '../../data/experienceData';
 import Image from 'next/image';
 import Link from 'next/link';
 

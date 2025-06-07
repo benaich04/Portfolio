@@ -1,10 +1,10 @@
 'use client';
 
 import Image from 'next/image';
-import { projects } from '../../data/projectsData';
-import { experiences } from '../../data/experienceData';
-import { publications } from '../../data/publicationsData';
-import Carousel from '../../components/Carousel';
+import { projects } from '../data/projectsData';
+import { experiences } from '../data/experienceData';
+import { publications } from '../data/publicationsData';
+import Carousel from '../components/Carousel';
 
 export default function HomeContent() {
   return (

@@ -1,4 +1,4 @@
-import { projects } from '../../../data/projectsData';
+import { projects } from '../../data/projectsData';
 import Image from 'next/image';
 
 export default function ProjectsPage() {
