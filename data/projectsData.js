@@ -12,7 +12,7 @@ export const projects = [
     title: 'F-16 Fighting Falcon VR Flight Simulator',
     description: `Built a VR-compatible F-16 flight simulator using Unity and C#, featuring realistic flight physics, takeoff/landing tutorials, and Oculus VR support. Designed both for entertainment and educational purposes to teach aviation basics.`,
     techStack: ['Unity3D', 'C#', 'Oculus VR', 'Flight Physics', 'Avionics'],
-    image: 'https://dl.dropboxusercontent.com/scl/fi/0p7pzwcvf77bfynapz1p3/F16.PNG?rlkey=k6lf4uccfqrs2j169n9gs776p&st=h0ftop0y&dl=0',
+    image: '/images/projects/F16.png',
     link: null,
   },
   {

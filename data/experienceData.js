@@ -13,8 +13,12 @@ export const experiences = [
     media: [
       { type: 'image', src: '/images/experience/fpga_board.jpg', alt: 'Xilinx FPGA Board' },
       { type: 'video', src: '/videos/fpga_demo.mp4', alt: 'FPGA Security Demo' }
+    ],
+    images: [
+      { src: '/images/experience/FPGA_board.jpg', alt: 'Construction robot overview' }
     ]
   },
+  
   {
     id: 2,
     slug: 'autonomous-uav-lab',
@@ -30,6 +34,9 @@ export const experiences = [
     media: [
       { type: 'image', src: '/images/experience/UAV_lab_2.PNG', alt: 'UAV Lab Testbed' },
       { type: 'image', src: '/images/experience/UAV_lab_1.PNG', alt: 'Autonomous UAV Demo' }
+    ],
+    images: [
+      { src: '/images/experience/UAV_lab_1.PNG', alt: 'Construction robot overview' }
     ]
   },
   {
@@ -56,7 +63,10 @@ export const experiences = [
       conference: 'Creative Construction Conference (CCC 2025)',
       doi: 'https://doi.org/10.22260/CCC2025/[LECTURE ID]',
       pdf: '/papers/robotic_systems_autonomous_data_acquisition.pdf'
-    }
+    },
+    images: [
+      { src: '//images/experience/SMART1.PNG'}
+    ]
   },
   {
     id: 4,
@@ -82,6 +92,9 @@ export const experiences = [
       conference: 'ACCCBE 2025',
       doi: '#',
       pdf: '/papers/automated_room_level_labelling.pdf'
-    }
+    },
+    images: [
+      { src: '/images/experience/Room_labelling_4.PNG' }
+    ]
   }
 ];
