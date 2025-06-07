@@ -27,7 +27,7 @@ export default function HomeContent() {
         </p>
 
         <div style={{ marginTop: '20px', display: 'flex', justifyContent: 'center', gap: '20px' }}>
-          <a href="/transcript.htm" download style={{ backgroundColor: '#0077b6', color: 'white', padding: '10px 20px', borderRadius: '5px', textDecoration: 'none' }}>
+          <a href="https://dl.dropboxusercontent.com/scl/fi/ww8kv1pglbuhtxilblroq/transcript?rlkey=awqg2scnda8wn0xxs9ggydsuj&st=f3ou8pi9&dl=0" download style={{ backgroundColor: '#0077b6', color: 'white', padding: '10px 20px', borderRadius: '5px', textDecoration: 'none' }}>
             Download Transcript
           </a>
 
