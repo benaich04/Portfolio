@@ -13,7 +13,7 @@ export const projects = [
     description: `Built a VR-compatible F-16 flight simulator using Unity and C#, featuring realistic flight physics, takeoff/landing tutorials, and Oculus VR support. Designed both for entertainment and educational purposes to teach aviation basics.`,
     techStack: ['Unity3D', 'C#', 'Oculus VR', 'Flight Physics', 'Avionics'],
     image: '/images/projects/F16.PNG',
-    link: null,
+    link: 'https://github.com/benaich04/F16_Flight_Simulator_VR',
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const projects = [
     description: `Designed and implemented a 14-bit microprocessor using VHDL with RISC-like architecture supporting 16 instructions. The system includes pipelined fetch-decode-execute stages, ALU with overflow detection, control unit, and on-chip debugging via FPGA synthesis and simulation.`,
     techStack: ['VHDL', 'FPGA (Xilinx ISE)', 'ModelSim', 'Digital Design'],
     image: '/images/projects/FPGA.jpg',
-    link: 'https://github.com/benaich04/F16_Flight_Simulator_VR',
+    link: null,
   },
   {
     id: 4,
