@@ -21,7 +21,7 @@ export const projects = [
     description: `Designed and implemented a 14-bit microprocessor using VHDL with RISC-like architecture supporting 16 instructions. The system includes pipelined fetch-decode-execute stages, ALU with overflow detection, control unit, and on-chip debugging via FPGA synthesis and simulation.`,
     techStack: ['VHDL', 'FPGA (Xilinx ISE)', 'ModelSim', 'Digital Design'],
     image: '/images/projects/FPGA.jpg',
-    link: null,
+    link: 'https://github.com/benaich04/F16_Flight_Simulator_VR',
   },
   {
     id: 4,
